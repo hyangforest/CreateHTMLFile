@@ -381,3 +381,6 @@ FodyWeavers.xsd
 /sample_202362001014.html
 /sample_2023619233024.html
 /sample.html
+
+# gitignore
+*.html
